@@ -1,0 +1,3 @@
+C:/Users/psdab/CLionProjects/matrix_multiplication/cmake-build-debug/CMakeFiles/matrix_multiplication.dir
+C:/Users/psdab/CLionProjects/matrix_multiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/psdab/CLionProjects/matrix_multiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
